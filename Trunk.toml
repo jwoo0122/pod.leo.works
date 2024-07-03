@@ -1,0 +1,10 @@
+trunk-version = "*"
+
+[build]
+target = "index.html"
+dist = "dist"
+minify = "always"
+
+[serve]
+port = 3000
+
