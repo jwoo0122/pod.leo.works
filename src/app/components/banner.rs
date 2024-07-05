@@ -8,10 +8,10 @@ pub fn Banner() -> impl IntoView {
                 <img src="/images/podcast-logo.png" alt="podcast-logo" class="w-20"/>
             </div>
             <div class="text-white text-3xl font-title font-bold mt-8">
-                "NEVER STOP LEARNING."
+                "JJ PODCAST"
             </div>
             <div class="text-white opacity-30 text-md mt-2">
-                "Podcast by Jeong Jinwoo"
+                "Podcast from frontend engineer"
             </div>
         </div>
     }
